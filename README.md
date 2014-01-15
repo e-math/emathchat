@@ -19,7 +19,7 @@ Emathchatserver depends on following programs and libraries:
 Who?
 ----
 The tool was developed in EU-funded [E-Math -project](http://emath.eu) by
-* Rolf Lindén
+* [Rolf Lindén](https://github.com/trg1984)
 
 and the copyrights are owned by [Four Ferries oy](http://fourferries.fi).
 
